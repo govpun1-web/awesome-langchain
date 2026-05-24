@@ -126,6 +126,7 @@ List of non-official ports of LangChain to other languages.
 ### Platforms
 
 - [Openllmetry](https://github.com/traceloop/openllmetry): Open-source observability for your LLM application, based on OpenTelemetry ![GitHub Repo stars](https://img.shields.io/github/stars/traceloop/openllmetry?style=social)
+- [tessera-langchain](https://github.com/tessera-llm/tessera-langchain): Drop-in cost optimization for LangChain ChatModels. One line of config routes ChatOpenAI / ChatAnthropic / ChatMistralAI / ChatGroq / ChatCohere through Tessera's substrate proxy. Auto-route + cache + provider prompt-cache + compression + batch, eval-gated at 0.95 quality floor. Plus hard per-workload spend caps. Python + LangChain.js. Pay 20% of measured savings only. Apache-2.0. ![GitHub Repo stars](https://img.shields.io/github/stars/tessera-llm/tessera-langchain?style=social)
 - [traceAI](https://github.com/future-agi/traceAI): Open-source OpenTelemetry-native tracing framework for LLM applications, with native LangChain instrumentation and support for 20+ frameworks. [![GitHub Repo stars](https://img.shields.io/github/stars/future-agi/traceAI?style=social)](https://github.com/future-agi/traceAI)
 
 ## Open Source Projects
